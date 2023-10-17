@@ -108,8 +108,6 @@
     />
   </a>
   <br />
-NEW
-[23:29]
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
