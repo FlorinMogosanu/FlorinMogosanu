@@ -20,6 +20,12 @@
   </a>
 </h3>
 
+<h3 align="left">
+  <a href="https:https://tip-calculator-tau-one.vercel.app/" target="_blank" rel="noreferrer">
+    TipCalculator
+  </a>
+</h3>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
