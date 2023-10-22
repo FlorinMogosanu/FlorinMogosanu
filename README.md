@@ -9,7 +9,7 @@
 
 <h2>Projects:</h3>
 <h3 align="left">
-  <a href="https://mywallet-16c35c459fcf.herokuapp.com/" target="_blank" rel="noreferrer">
+  <a href="https://drab-blue-starfish-ring.cyclic.app/index.html" rel="noreferrer">
     MyWallet
   </a>
 </h3>
@@ -22,6 +22,13 @@
 
 <h3 align="left">
   <a href="https://tip-calculator-tau-one.vercel.app/" target="_blank" rel="noreferrer">
+    TipCalculator
+  </a>
+</h3>
+
+
+<h3 align="left">
+  <a href="https://piano-dun.vercel.app/" target="_blank" rel="noreferrer">
     TipCalculator
   </a>
 </h3>
