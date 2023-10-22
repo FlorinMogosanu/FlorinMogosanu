@@ -29,7 +29,7 @@
 
 <h3 align="left">
   <a href="https://piano-dun.vercel.app/" target="_blank" rel="noreferrer">
-    TipCalculator
+    PianoApp
   </a>
 </h3>
 
