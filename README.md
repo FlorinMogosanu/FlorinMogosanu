@@ -7,12 +7,12 @@
 
 - 📫 How to reach me **florinmogosanu491@gmail.com**
 
-<h3>Projects:</h3>
-<p align="left">
+<h2>Projects:</h3>
+<h3 align="left">
   <a href="https://mywallet-16c35c459fcf.herokuapp.com/" target="_blank" rel="noreferrer">
     MyWallet
   </a>
-</p>
+</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
